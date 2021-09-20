@@ -95,7 +95,7 @@ Rule 😎
 | <center>제목</center>  | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | ----------------------------- | :---------------------: | :---------------------: | :-------------------: |
 | [기본 스타일 규칙][기본스타일규칙]| 57 |[Santos][Santos]|  |
-| 그룹화 | 63 |[Santos][Santos]|  |
+| [그룹화][그룹화] | 63 |[Santos][Santos]|  |
 | 클래스 선택자와 ID 선택자 | 70 |[Santos][Santos]|  |
 | 속성 선택자 | 78 |[Santos][Santos]|  |
 | 문서 구조 | 91 |[Santos][Santos]|  |
@@ -369,3 +369,4 @@ Rule 😎
 [Local]: https://github.com/blocallee
 [웹스타일의간략한역사]: ./contents/01.CSS와문서/1.웹스타일의간략한역사.md
 [기본스타일규칙]: ./contents/02.선택자/1.기본스타일규칙.md
+[그룹화]: ./contents/02.선택자/2.그룹화.md
