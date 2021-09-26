@@ -82,7 +82,7 @@ Rule 😎
 | ----------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
 | [웹 스타일의 간략한 역사][웹스타일의간략한역사] |           21            |     [Local][local]      |  :heavy_check_mark:   |
 | [요소][요소]                                    |           23            |     [Local][local]      |  :heavy_check_mark:   |
-| CSS와 HTML의 결함                               |           29            |     [Local][local]      |                       |
+| [CSS와 HTML의 결함][css와html의결함]            |           29            |     [Local][local]      |                       |
 | 스타일시트 콘텐츠                               |           40            |     [Local][local]      |                       |
 | 미디어 쿼리                                     |           46            |     [Local][local]      |                       |
 | 기능 쿼리                                       |           52            |     [Local][local]      |                       |
@@ -372,3 +372,4 @@ Rule 😎
 [그룹화]: ./contents/02.선택자/2.그룹화.md
 [클래스선택자와id선택자]: ./contents/02.선택자/3.클래스선택자와ID선택자.md
 [요소]: ./contents/01.CSS와문서/2.요소.md
+[css와html의결함]: ./contents/01.CSS와문서/3.CSS와HTML의결합.md
