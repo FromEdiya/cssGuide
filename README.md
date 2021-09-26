@@ -81,7 +81,7 @@ Rule 😎
 | <center>제목</center>                           | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | ----------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
 | [웹 스타일의 간략한 역사][웹스타일의간략한역사] |           21            |     [Local][local]      |  :heavy_check_mark:   |
-| 요소                                            |           23            |     [Local][local]      |                       |
+| [요소][요소]                                    |           23            |     [Local][local]      |  :heavy_check_mark:   |
 | CSS와 HTML의 결함                               |           29            |     [Local][local]      |                       |
 | 스타일시트 콘텐츠                               |           40            |     [Local][local]      |                       |
 | 미디어 쿼리                                     |           46            |     [Local][local]      |                       |
@@ -371,4 +371,4 @@ Rule 😎
 [기본스타일규칙]: ./contents/02.선택자/1.기본스타일규칙.md
 [그룹화]: ./contents/02.선택자/2.그룹화.md
 [클래스선택자와id선택자]: ./contents/02.선택자/3.클래스선택자와ID선택자.md
-[웹스타일의간략한역사]: ./contents/01.CSS와문서/1.웹스타일의간략한역사.md
+[요소]: ./contents/01.CSS와문서/2.요소.md
